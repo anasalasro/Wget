@@ -6,7 +6,7 @@ En este proyecto estudiaremos y explicaremos qué es y para que sirve Wget.
 
 ## Índice:
 
-1. [ Introducción ](https://github.com/anasalasro/Nginx/blob/main/Introduccion.md)  
+1. [ Introducción ](https://github.com/anasalasro/Wget/blob/main/introduccion.md)  
 2. [ Instalación ](https://github.com/anasalasro/Nginx/blob/main/Comparativa.md)  
 3. [ Ejemplos ](https://github.com/anasalasro/Nginx/blob/main/esquemadered.md)  
 
