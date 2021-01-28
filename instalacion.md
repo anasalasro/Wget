@@ -1,7 +1,7 @@
 # Instalación de Wget
 ## 1. Primeo actualizamos la lista de paquetes
-      ```apt update```
+      `apt update`
 ## 2.Comprobamos que no está instalado y tiene candidatos
-      ```apt policy wegt```
+      `apt policy wegt`
 ## 3. Instalamos Wget
-      ``` apt install wget```
+      ` apt install wget`
